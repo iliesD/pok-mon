@@ -70,7 +70,11 @@ p {
 
 .gris {
     background: #AAA;
-    color: #FFF
+    color: black
+}
+
+.Fin{
+    background-color: white;
 }
 
 .boxed {
@@ -254,6 +258,12 @@ p {
     cursor: pointer;
 }
 
+.quiz{
+    font-size: 1.6rem;
+}
+
+
+
 @media screen and (max-width: 1100px) {
     .card {
         width: 45%;
@@ -302,3 +312,4 @@ p {
         width: 100%;
     }
 }
+
